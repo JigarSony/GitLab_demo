@@ -168,7 +168,8 @@ Step 4: Start the runner
 Step 5: Make any change in the project  ＞ commit ＞ push
 
 #References:
-(https://gitlab.com/help/ci/quick_star...
+
+https://gitlab.com/help/ci/quick_star...
 
 https://docs.gitlab.com/ee/ci/
 
